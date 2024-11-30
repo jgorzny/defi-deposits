@@ -1,0 +1,32 @@
+Yearn V2 DAI (0xdA816) RESULTS ---------  
+t_p: 322
+d_p: 10
+w_p: 312
+a_p: 503000.09130434785
+small_d_p: 1081
+big_d_p: 1271917
+X_p: 226
+Yearn V2 WETH (0xa258C) RESULTS ---------  
+t_p: 341
+d_p: 5
+w_p: 336
+a_p: 548423.537593985
+small_d_p: 26
+big_d_p: 1277893
+X_p: 266
+Curve (0x8301A) RESULTS ---------  
+t_p: 1505
+d_p: 967
+w_p: 538
+a_p: 548159.6186635945
+small_d_p: 4
+big_d_p: 1287105
+X_p: 806
+Sturdy (0x9f72D) RESULTS ---------  
+t_p: 187
+d_p: 104
+w_p: 83
+a_p: 432471.6203703704
+small_d_p: 18
+big_d_p: 1152668
+X_p: 93
