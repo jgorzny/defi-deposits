@@ -1,4 +1,4 @@
-# DeFi Deposit Research
+# DeFi Deposit Research Scripts
 
 ## Topics
 **SAC-DAPP-2025** How long is the average DeFi deposit? Our [work](https://ieeexplore.ieee.org/document/10646464) in DAPPS 2024 suggested that mandating a minimum deposit time for DeFi protocols will prevent flashloan hacks. Readers asked if this would have a negative impact for user experience. This work, accepted to [SAC DAPP](https://www.cas-blockchain-certification.com/en/acm-sac-dapp-track) 2025 as a poster, takes a first step towards answering this. We show that most users deposit assets for several blocks, at least in some cases. A more involved study is coming to overcome the limitations of this poster -- stay tuned!
